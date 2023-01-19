@@ -170,10 +170,4 @@ d3.csv('manga.csv', function (d){
         .on("mousemove", mousemove2)
         .on("mouseleave", mouseleave2)
 
-    barSvg.selectAll("rect")
-        .transition()
-        .duration(1000)
-        
-
-
 })
