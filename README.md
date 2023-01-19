@@ -2,7 +2,7 @@
 
 ## Visualisation de Manga 
 
-Ce projet a pour but de représenter, à l'aide D3.js, les mangas les plus vendus dans le monde jusqu'à l'année 2022. Le manga est une dessinée japonaise qui est très populaire dans le monde. La grande popularité des mangas se traduit par le fait que énormément d'oeuvres dépassent la barre des millions de vente à travers le monde. Etant un lecteur de ce genre de bande dessinée je trouvais intéressant de représenter les données j'ai récolté avec D3.js
+Ce projet a pour but de représenter, à l'aide D3.js, les mangas les plus vendu dans le monde jusqu'à l'année 2022. Le manga est une bande dessinée japonaise qui est très populaire. La grande popularité des mangas se traduit par le fait que énormément d'oeuvres dépassent la barre des millions de vente à travers le monde. Etant un lecteur de ce genre de bande dessinée je trouvais intéressant de représenter les données j'ai récolté avec D3.js
 
 ## Contenu
 
