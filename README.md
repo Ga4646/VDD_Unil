@@ -14,5 +14,5 @@ Le projet a été entièrement réalisé avec D3.js.
 
 ## Amélioration 
 
-1) Les visualisations qui sont présentes dans le projet sont plutôt simple. Il aurait été intéressant de représenter ces données avec plus d'animation en utilisant D3.js
+1) Les visualisations qui sont présentes dans le projet sont plutôt simples. Il aurait été intéressant de représenter ces données avec plus d'animation en utilisant D3.js
 2) Toutes les données n'ont pas été exploitées, en effet il aurait été intéressant de faire plus de visualisation avec toutes informations présentes dans le fichier .csv.
